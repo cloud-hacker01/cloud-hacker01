@@ -1,7 +1,4 @@
-!--
-  GitHub Profile README
-  Repository: cloud-hacker01/cloud-hacker01
--->
+# 👋 Hi, I'm Austine Chinemerem
 
 <p align="center">
   <img src="./ded89723-bb91-4326-940d-ab8c523bf57f.png" alt="Cyber Security Analyst in Training banner" width="100%" />
